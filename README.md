@@ -1,5 +1,8 @@
 
 # SVM-Based Purchase Prediction Model
+<img width="509" alt="Screen Shot 1445-11-19 at 5 53 10 PM" src="https://github.com/TaifSahli/SVM-machine-learning-model/assets/163606855/0bd196b8-f049-422a-bded-8efb4d9fe745">
+<img width="734" alt="Screen Shot 1445-11-19 at 5 53 45 PM" src="https://github.com/TaifSahli/SVM-machine-learning-model/assets/163606855/657f08ad-daf1-4e65-9c9d-26013ea0ab6c">
+<img width="825" alt="Screen Shot 1445-11-19 at 5 54 04 PM" src="https://github.com/TaifSahli/SVM-machine-learning-model/assets/163606855/c6cb1749-a0d9-49e7-a482-290f7925bf6b">
 
 ## Project Overview
 
@@ -16,8 +19,7 @@ In this project, we designed, implemented, and evaluated a Support Vector Machin
 7. [Evaluation and Results](#evaluation-and-results)
 8. [Conclusion](#conclusion)
 9. [Future Work](#future-work)
-10. [Team Members](#team-members)
-11. [References](#references)
+10. [References](#references)
 
 ## Project Goals
 
@@ -82,12 +84,7 @@ This project demonstrated the potential of SVMs in predicting user purchase beha
 - **Feature Importance Analysis:** Conduct a thorough analysis to understand the significance of different user characteristics.
 - **Real-World Application:** Deploy the trained model in real-world applications for real-time predictions and marketing strategy optimization.
 
-## Team Members
 
-- Taif Fadhel Alsahli
-- Kindah Turki Alotaibi
-- Latifah Ibrahim Alothman
-- Taif Faris Alatif
 
 ## References
 
